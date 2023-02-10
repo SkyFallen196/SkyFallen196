@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkyFallen196
 - 👀 I’m interested in Information technologies 
-- 🌱 I’m currently learning Python, C++, C#
+- 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on Gamedev, neural networks 
 - 📫 How to reach me https://www.facebook.com/
 
